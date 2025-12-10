@@ -1,0 +1,385 @@
+﻿;Ticker;Name;Währung;Börse;Sektor;Branche
+0;4SI.JO;4Sight Holdings Limited;ZAc;JNB;Technology;Information Technology Services
+1;ABG.JO;Absa Group Limited;ZAc;JNB;Financial Services;Banks - Regional
+2;APF.JO;Accelerate Property Fund Limited;ZAc;JNB;Real Estate;REIT - Retail
+3;ACS.JO;Acsion Limited;ZAc;JNB;Real Estate;Real Estate - Development
+4;AIP.JO;Adcock Ingram Holdings Limited;ZAc;JNB;Healthcare;Drug Manufacturers - Specialty & Generic
+5;ADR.JO;Adcorp Holdings Limited;ZAc;JNB;Industrials;Staffing & Employment Services
+6;ADH.JO;ADvTECH Limited;ZAc;JNB;Consumer Defensive;Education & Training Services
+7;AFE.JO;AECI Ltd;ZAc;JNB;Basic Materials;Specialty Chemicals
+8;AON.JO;African and Overseas Enterprises Limited;ZAc;JNB;Consumer Cyclical;Apparel Retail
+9;AOO.JO;African and Overseas Enterprises Limited;ZAc;JNB;Consumer Cyclical;Apparel Retail
+10;ADW.JO;African Dawn Capital Limited;ZAc;JNB;Financial Services;Credit Services
+11;AME.JO;African Media Entertainment Limited;ZAc;JNB;Communication Services;Broadcasting
+12;ARI.JO;African Rainbow Minerals Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+13;AFT.JO;Afrimat Limited;ZAc;JNB;Basic Materials;Building Materials
+14;ACT.JO;AfroCentric Investment Corporation Limited;ZAc;JNB;Healthcare;Medical Care Facilities
+15;AHL.JO;AH-Vest Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+16;AFH.JO;Alexander Forbes Group Holdings Limited;ZAc;JNB;Financial Services;Financial Conglomerates
+17;AEL.JO;Altron Limited;ZAc;JNB;Technology;Information Technology Services
+18;APH.JO;Alphamin Resources Corp.;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+19;AGL.JO;Anglo American plc;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+20;ANG.JO;AngloGold Ashanti plc;ZAc;JNB;Basic Materials;Gold
+21;ANH.JO;Anheuser-Busch InBev SA/NV;ZAc;JNB;Consumer Defensive;Beverages - Brewers
+22;ACL.JO;ArcelorMittal South Africa Limited;ZAc;JNB;Basic Materials;Steel
+23;ART.JO;Argent Industrial Limited;ZAc;JNB;Basic Materials;Steel
+24;AHA.JO;N/A;N/A;N/A;N/A;N/A
+25;AHB.JO;N/A;N/A;N/A;N/A;N/A
+26;ASC.JO;Ascendis Health Limited;ZAc;JNB;Healthcare;Medical Distribution
+27;APN.JO;Aspen Pharmacare Holdings Limited;ZAc;JNB;Healthcare;Drug Manufacturers - Specialty & Generic
+28;ARA.JO;Astoria Investments Ltd;ZAc;JNB;Financial Services;Asset Management
+29;ARL.JO;Astral Foods Limited;ZAc;JNB;Consumer Defensive;Farm Products
+30;ATT.JO;Attacq Limited;ZAc;JNB;Real Estate;REIT - Diversified
+31;AEG.JO;Aveng Limited;ZAc;JNB;Industrials;Engineering & Construction
+32;AVI.JO;AVI Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+33;AYO.JO;AYO Technology Solutions Limited;ZAc;JNB;Technology;Information Technology Services
+34;BWN.JO;Balwin Properties Limited;ZAc;JNB;Real Estate;Real Estate - Development
+35;BAW.JO;Barloworld Limited;ZAc;JNB;;
+36;BEL.JO;Bell Equipment Limited;ZAc;JNB;Industrials;Farm & Heavy Construction Machinery
+37;BHG.JO;BHP Group Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+38;BID.JO;Bid Corporation Limited;ZAc;JNB;Consumer Defensive;Food Distribution
+39;BVT.JO;The Bidvest Group Limited;ZAc;JNB;Industrials;Conglomerates
+40;BLU.JO;Blue Label Telecoms Limited;ZAc;JNB;Communication Services;Telecom Services
+41;BCF.JO;Bowler Metcalf Limited;ZAc;JNB;Consumer Cyclical;Packaging & Containers
+42;BOX.JO;Boxer Retail Ltd;ZAc;JNB;Consumer Cyclical;Department Stores
+43;BAT.JO;Brait PLC;ZAc;JNB;Financial Services;Asset Management
+44;BIK.JO;Brikor Limited;ZAc;JNB;Basic Materials;Building Materials
+45;BRN.JO;Brimstone Investment Corporation Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+46;BRT.JO;Brimstone Investment Corporation Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+47;BTI.JO;British American Tobacco p.l.c.;ZAc;JNB;Consumer Defensive;Tobacco
+48;BYI.JO;Bytes Technology Group plc;ZAc;JNB;Technology;Software - Infrastructure
+49;CAA.JO;CA Sales Holdings Limited;ZAc;JNB;Industrials;Specialty Business Services
+50;CAC.JO;CAFCA Limited;ZAc;JNB;Industrials;Electrical Equipment & Parts
+51;CGR.JO;Calgro M3 Holdings Limited;ZAc;JNB;Consumer Cyclical;Residential Construction
+52;CCO.JO;N/A;N/A;N/A;N/A;N/A
+53;CTA.JO;Capital Appreciation Limited;ZAc;JNB;Technology;Information Technology Services
+54;CPI.JO;Capitec Bank Holdings Limited;ZAc;JNB;Financial Services;Banks - Regional
+55;CSB.JO;Cashbuild Limited;ZAc;JNB;Consumer Cyclical;Home Improvement Retail
+56;CVW.JO;Castleview Property Fund Limited;ZAc;JNB;Real Estate;REIT - Retail
+57;CAT.JO;Caxton and CTP Publishers and Printers Limited;ZAc;JNB;Communication Services;Publishing
+58;CHP.JO;Choppies Enterprises Limited;ZAc;JNB;Consumer Defensive;Grocery Stores
+59;CMO.JO;N/A;N/A;N/A;N/A;N/A
+60;CLH.JO;City Lodge Hotels Limited;ZAc;JNB;Consumer Cyclical;Lodging
+61;CLS.JO;Clicks Group Limited;ZAc;JNB;Healthcare;Pharmaceutical Retailers
+62;CLI.JO;ClientÃ¨le Limited;ZAc;JNB;Financial Services;Insurance - Diversified
+63;CMH.JO;Combined Motor Holdings Limited;ZAc;JNB;Consumer Cyclical;Auto & Truck Dealerships
+64;CFR.JO;Compagnie FinanciÃ¨re Richemont SA;ZAc;JNB;Consumer Cyclical;Luxury Goods
+65;CND.JO;Conduit Capital Limited;ZAc;JNB;Financial Services;Insurance - Diversified
+66;CML.JO;Coronation Fund Managers Limited;ZAc;JNB;Financial Services;Asset Management
+67;CKS.JO;Crookes Brothers Limited;ZAc;JNB;Consumer Defensive;Farm Products
+68;COH.JO;Curro Holdings Limited;ZAc;JNB;Consumer Defensive;Education & Training Services
+69;DTC.JO;Datatec Limited;ZAc;JNB;Technology;Information Technology Services
+70;DLT.JO;Delta Property Fund Limited;ZAc;JNB;Real Estate;REIT - Office
+71;DNB.JO;Deneb Investments Limited;ZAc;JNB;Industrials;Conglomerates
+72;DKR.JO;Deutsche Konsum REIT-AG;ZAc;JNB;Real Estate;REIT - Retail
+73;DIB.JO;Dipula Properties Limited;ZAc;JNB;Real Estate;REIT - Retail
+74;DCP.JO;Dis-Chem Pharmacies Limited;ZAc;JNB;Healthcare;Pharmaceutical Retailers
+75;DSY.JO;Discovery Limited;ZAc;JNB;Financial Services;Insurance - Life
+76;DRD.JO;DRDGOLD Limited;ZAc;JNB;Basic Materials;Gold
+77;EMN.JO;eMedia Holdings Limited;ZAc;JNB;Communication Services;Entertainment
+78;EMH.JO;eMedia Holdings Limited;ZAc;JNB;Communication Services;Entertainment
+79;EPS.JO;Eastern Platinum Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+80;EEL.JO;Efora Energy Limited;ZAc;JNB;N/A;N/A
+81;ELI.JO;Ellies Holdings Limited;ZAc;JNB;Technology;Communication Equipment
+82;EMI.JO;Emira Property Fund Limited;ZAc;JNB;Real Estate;REIT - Diversified
+83;ENX.JO;enX Group Limited;ZAc;JNB;Industrials;Specialty Industrial Machinery
+84;EOH.JO;N/A;N/A;N/A;N/A;N/A
+85;EPE.JO;EPE Capital Partners Ltd;ZAc;JNB;Financial Services;Asset Management
+86;EQU.JO;Equites Property Fund Limited;ZAc;JNB;Real Estate;REIT - Industrial
+87;EUZ.JO;Europa Metals Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+88;EXP.JO;Exemplar REITail Limited;ZAc;JNB;Real Estate;REIT - Retail
+89;EXX.JO;Exxaro Resources Limited;ZAc;JNB;Energy;Thermal Coal
+90;FBR.JO;Famous Brands Limited;ZAc;JNB;Consumer Defensive;Food Distribution
+91;FGL.JO;Finbond Group Limited;ZAc;JNB;Financial Services;Mortgage Finance
+92;FSR.JO;FirstRand Limited;ZAc;JNB;Financial Services;Banks - Diversified
+93;FFB.JO;Fortress Real Estate Investments Limited;ZAc;JNB;Real Estate;Real Estate Services
+94;GAI.JO;N/A;N/A;N/A;N/A;N/A
+95;GML.JO;Gemfields Group Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+96;GLN.JO;Glencore plc;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+97;GTC.JO;Globe Trade Centre S.A.;ZAc;JNB;Real Estate;Real Estate Services
+98;GLI.JO;Numeral Limited;ZAc;JNB;Healthcare;Drug Manufacturers - Specialty & Generic
+99;GFI.JO;Gold Fields Limited;ZAc;JNB;Basic Materials;Gold
+100;GPL.JO;Grand Parade Investments Limited;ZAc;JNB;Consumer Cyclical;Restaurants
+101;GND.JO;Grindrod Limited;ZAc;JNB;Industrials;Integrated Freight & Logistics
+102;GRT.JO;Growthpoint Properties Limited;ZAc;JNB;Real Estate;REIT - Diversified
+103;HMN.JO;Hammerson Plc;ZAc;JNB;Real Estate;REIT - Retail
+104;HAR.JO;Harmony Gold Mining Company Limited;ZAc;JNB;Basic Materials;Gold
+105;HET.JO;Heriot REIT Limited;ZAc;JNB;Real Estate;REIT - Diversified
+106;HIL.JO;HomeChoice International plc;ZAc;JNB;Consumer Cyclical;Specialty Retail
+107;HCI.JO;Hosken Consolidated Investments Limited;ZAc;JNB;Industrials;Conglomerates
+108;HPR.JO;N/A;N/A;N/A;N/A;N/A
+109;HDC.JO;Hudaco Industries Limited;ZAc;JNB;Industrials;Industrial Distribution
+110;HUG.JO;Huge Group Limited;ZAc;JNB;Financial Services;Asset Management
+111;HLM.JO;Hulamin Limited;ZAc;JNB;Industrials;Metal Fabrication
+112;HYP.JO;Hyprop Investments Limited;ZAc;JNB;Real Estate;REIT - Retail
+113;IMP.JO;Impala Platinum Holdings Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+114;ISB.JO;Insimbi Industrial Holdings Limited;ZAc;JNB;Industrials;Metal Fabrication
+115;INL.JO;Investec Group;ZAc;JNB;Financial Services;Banks - Regional
+116;INP.JO;Investec Group;ZAc;JNB;Financial Services;Capital Markets
+117;IPF.JO;N/A;N/A;N/A;N/A;N/A
+118;IVT.JO;Invicta Holdings Limited;ZAc;JNB;Industrials;Industrial Distribution
+119;ISA.JO;ISA Holdings Limited;ZAc;JNB;Technology;Software - Infrastructure
+120;ITE.JO;Italtile Limited;ZAc;JNB;Consumer Cyclical;Home Improvement Retail
+121;JSE.JO;JSE Limited;ZAc;JNB;Financial Services;Financial Data & Stock Exchanges
+122;JBL.JO;Jubilee Metals Group PLC;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+123;KAL.JO;KAL Group Limited;ZAc;JNB;Consumer Cyclical;Specialty Retail
+124;KAP.JO;KAP Limited;ZAc;JNB;Industrials;Conglomerates
+125;KRO.JO;Karooooo Ltd.;ZAc;JNB;Technology;Software - Application
+126;KBO.JO;Kibo Energy PLC;ZAc;JNB;Utilities;Utilities - Renewable
+127;KP2.JO;Kore Potash plc;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+128;KIO.JO;Kumba Iron Ore Limited;ZAc;JNB;Basic Materials;Steel
+129;LAB.JO;Labat Africa Limited;ZAc;JNB;Healthcare;Drug Manufacturers - Specialty & Generic
+130;LEW.JO;Lewis Group Limited;ZAc;JNB;Consumer Cyclical;Specialty Retail
+131;LBR.JO;Libstar Holdings Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+132;LHC.JO;Life Healthcare Group Holdings Limited;ZAc;JNB;Healthcare;Medical Care Facilities
+133;LTE.JO;Lighthouse Properties p.l.c.;ZAc;JNB;Real Estate;Real Estate Services
+134;MMP.JO;Marshall Monteagle PLC;ZAc;JNB;Industrials;Industrial Distribution
+135;MSP.JO;MAS P.L.C.;ZAc;JNB;Real Estate;Real Estate - Diversified
+136;MDI.JO;Master Drilling Group Limited;ZAc;JNB;Industrials;Engineering & Construction
+137;MCZ.JO;MC Mining Limited;ZAc;JNB;Energy;Thermal Coal
+138;MRF.JO;Merafe Resources Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+139;MTA.JO;Metair Investments Limited;ZAc;JNB;Consumer Cyclical;Auto Parts
+140;MFL.JO;Metrofile Holdings Limited;ZAc;JNB;Industrials;Specialty Business Services
+141;MED.JO;N/A;N/A;N/A;N/A;N/A
+142;MRI.JO;N/A;N/A;N/A;N/A;N/A
+143;MTM.JO;Momentum Group Limited;ZAc;JNB;Financial Services;Insurance - Diversified
+144;MNP.JO;Mondi plc;ZAc;JNB;Basic Materials;Paper & Paper Products
+145;MTH.JO;Motus Holdings Limited;ZAc;JNB;Consumer Cyclical;Auto & Truck Dealerships
+146;MPT.JO;Mpact Limited;ZAc;JNB;Consumer Cyclical;Packaging & Containers
+147;MRP.JO;Mr Price Group Limited;ZAc;JNB;Consumer Cyclical;Apparel Retail
+148;MTN.JO;MTN Group Limited;ZAc;JNB;Communication Services;Telecom Services
+149;MTNZF.JO;MTN Zakhele Futhi (RF) Limited;ZAc;JNB;Financial Services;Shell Companies
+150;MCG.JO;MultiChoice Group Limited;ZAc;JNB;Communication Services;Entertainment
+151;MUR.JO;Murray & Roberts Holdings Limited;ZAc;JNB;Industrials;Engineering & Construction
+152;MST.JO;Mustek Limited;ZAc;JNB;Technology;Computer Hardware
+153;NPK.JO;Nampak Limited;ZAc;JNB;Consumer Cyclical;Packaging & Containers
+154;NPN.JO;Naspers Limited;ZAc;JNB;Consumer Cyclical;Internet Retail
+155;NED.JO;Nedbank Group Limited;ZAc;JNB;Financial Services;Banks - Regional
+156;NRP.JO;NEPI Rockcastle N.V.;ZAc;JNB;Real Estate;Real Estate - Diversified
+157;NT1.JO;N/A;N/A;N/A;N/A;N/A
+158;NTC.JO;Netcare Limited;ZAc;JNB;Healthcare;Medical Care Facilities
+159;NRL.JO;Newpark REIT Limited;ZAc;JNB;Real Estate;REIT - Diversified
+160;NCS.JO;Nictus Limited;ZAc;JNB;Consumer Cyclical;Specialty Retail
+161;NY1.JO;Ninety One Group;ZAc;JNB;Financial Services;Asset Management
+162;N91.JO;Ninety One Group;ZAc;JNB;Financial Services;Asset Management
+163;NPH.JO;Northam Platinum Holdings Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+164;NHM.JO;N/A;N/A;N/A;N/A;N/A
+165;NVS.JO;Novus Holdings Limited;ZAc;JNB;Industrials;Specialty Business Services
+166;NWL.JO;Nu-World Holdings Limited;ZAc;JNB;Technology;Consumer Electronics
+167;OAO.JO;Oando PLC;ZAc;JNB;Energy;Oil & Gas Refining & Marketing
+168;OAS.JO;Oasis Crescent Property Fund;ZAc;JNB;Real Estate;REIT - Diversified
+169;OCE.JO;Oceana Group Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+170;OCT.JO;Octodec Investments Limited;ZAc;JNB;Real Estate;REIT - Diversified
+171;OMU.JO;Old Mutual Limited;ZAc;JNB;Financial Services;Financial Conglomerates
+172;OMN.JO;Omnia Holdings Limited;ZAc;JNB;Industrials;Conglomerates
+173;ORN.JO;Orion Minerals Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+174;OUT.JO;OUTsurance Group Limited;ZAc;JNB;Financial Services;Insurance - Diversified
+175;PAN.JO;Pan African Resources PLC;ZAc;JNB;Basic Materials;Gold
+176;PBG.JO;PBT Group Limited;ZAc;JNB;Technology;Information Technology Services
+177;PPH.JO;Pepkor Holdings Limited;ZAc;JNB;Consumer Cyclical;Department Stores
+178;PIK.JO;Pick n Pay Stores Limited;ZAc;JNB;Consumer Cyclical;Department Stores
+179;PPC.JO;PPC Ltd;ZAc;JNB;Basic Materials;Building Materials
+180;PMR.JO;Premier Group Limited;ZAc;JNB;Consumer Defensive;Grocery Stores
+181;PMV.JO;Primeserv Group Limited;ZAc;JNB;Industrials;Staffing & Employment Services
+182;PRX.JO;Prosus N.V.;ZAc;JNB;Communication Services;Internet Content & Information
+183;KST.JO;PSG Financial Services Limited;ZAc;JNB;Financial Services;Asset Management
+184;PSV.JO;PSV Holdings Limited;ZAc;JNB;N/A;N/A
+185;PPE.JO;Purple Group Limited;ZAc;JNB;Financial Services;Financial Conglomerates
+186;PPR.JO;Putprop Limited;ZAc;JNB;Real Estate;Real Estate Services
+187;QFH.JO;Quantum Foods Holdings Ltd;ZAc;JNB;Consumer Defensive;Farm Products
+188;QLT.JO;Quilter plc;ZAc;JNB;Financial Services;Asset Management
+189;RBO.JO;Rainbow Chicken Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+190;RMI.JO;N/A;N/A;N/A;N/A;N/A
+191;RNG.JO;Randgold & Exploration Company Limited;ZAc;JNB;Basic Materials;Gold
+192;RBX.JO;Raubex Group Limited;ZAc;JNB;Industrials;Engineering & Construction
+193;RCL.JO;RCL Foods Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+194;REA.JO;Rebosis Property Fund Limited;ZAc;JNB;Real Estate;REIT - Diversified
+195;REB.JO;Rebosis Property Fund Limited;ZAc;JNB;Real Estate;REIT - Diversified
+196;RDF.JO;Redefine Properties Limited;ZAc;JNB;Real Estate;REIT - Diversified
+197;RNI.JO;Reinet Investments S.C.A.;ZAc;JNB;Financial Services;Asset Management
+198;REM.JO;Remgro Limited;ZAc;JNB;Financial Services;Asset Management
+199;REN.JO;Renergen Limited;ZAc;JNB;Energy;Oil & Gas E&P
+200;RES.JO;Resilient REIT Limited;ZAc;JNB;Real Estate;REIT - Retail
+201;RLO.JO;Reunert Limited;ZAc;JNB;Industrials;Electrical Equipment & Parts
+202;RTN.JO;Rex Trueform Group Limited;ZAc;JNB;Consumer Cyclical;Apparel Retail
+203;RTO.JO;Rex Trueform Group Limited;ZAc;JNB;Consumer Cyclical;Apparel Retail
+204;RFG.JO;RFG Holdings Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+205;RHB.JO;RH Bophelo Limited;ZAc;JNB;Healthcare;Medical Care Facilities
+206;RMH.JO;RMB Holdings Limited;ZAc;JNB;Financial Services;Banks - Regional
+207;SAC.JO;SA Corporate Real Estate Limited;ZAc;JNB;Real Estate;REIT - Diversified
+208;SBP.JO;Sabvest Capital Limited;ZAc;JNB;Financial Services;Asset Management
+209;SAR.JO;Safari Investments RSA Limited;ZAc;JNB;Real Estate;REIT - Diversified
+210;SLM.JO;Sanlam Limited;ZAc;JNB;Financial Services;Insurance - Life
+211;SNT.JO;Santam Ltd;ZAc;JNB;Financial Services;Insurance - Specialty
+212;SNV.JO;Santova Limited;ZAc;JNB;Industrials;Integrated Freight & Logistics
+213;SAP.JO;Sappi Limited;ZAc;JNB;Basic Materials;Paper & Paper Products
+214;SOLBE1.JO;Sasol Limited;ZAc;JNB;Basic Materials;Specialty Chemicals
+215;SOL.JO;Sasol Limited;ZAc;JNB;Basic Materials;Specialty Chemicals
+216;SCD.JO;Schroder European Real Estate Inv Trust;ZAc;JNB;N/A;N/A
+217;SHG.JO;Sea Harvest Group Limited;ZAc;JNB;Consumer Defensive;Farm Products
+218;SEB.JO;Sebata Holdings Limited;ZAc;JNB;Technology;Software - Application
+219;SEP.JO;Sephaku Holdings Limited;ZAc;JNB;Basic Materials;Building Materials
+220;SHP.JO;Shoprite Holdings Ltd;ZAc;JNB;Consumer Cyclical;Department Stores
+221;SSW.JO;Sibanye Stillwater Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+222;SRE.JO;Sirius Real Estate Limited;ZAc;JNB;Real Estate;Real Estate Services
+223;SOH.JO;South Ocean Holdings Limited;ZAc;JNB;Industrials;Electrical Equipment & Parts
+224;S32.JO;South32 Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+225;SDL.JO;Southern Palladium Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+226;SPP.JO;The SPAR Group Ltd;ZAc;JNB;Consumer Defensive;Food Distribution
+227;SEA.JO;Spear Reit Limited;ZAc;JNB;Real Estate;REIT - Diversified
+228;SUR.JO;Spur Corporation Ltd;ZAc;JNB;Consumer Cyclical;Restaurants
+229;SDO.JO;Stadio Holdings Limited;ZAc;JNB;Consumer Defensive;Education & Training Services
+230;SBK.JO;Standard Bank Group Limited;ZAc;JNB;Financial Services;Banks - Regional
+231;SSK.JO;Stefanutti Stocks Holdings Limited;ZAc;JNB;Industrials;Engineering & Construction
+232;SSS.JO;Stor-Age Property REIT Limited;ZAc;JNB;Real Estate;REIT - Industrial
+233;SUI.JO;Sun International Limited;ZAc;JNB;Consumer Cyclical;Resorts & Casinos
+234;SPG.JO;Super Group Limited;ZAc;JNB;Industrials;Integrated Freight & Logistics
+235;SRI.JO;N/A;ZAc;JNB;;
+236;SYG.JO;Sygnia Limited;ZAc;JNB;Financial Services;Financial Conglomerates
+237;TLM.JO;TeleMasters Holdings Limited;ZAc;JNB;Communication Services;Telecom Services
+238;TKG.JO;Telkom SA SOC Ltd;ZAc;JNB;Communication Services;Telecom Services
+239;TEX.JO;Texton Property Fund Limited;ZAc;JNB;Real Estate;REIT - Office
+240;THA.JO;Tharisa plc;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+241;TFG.JO;The Foschini Group Limited;ZAc;JNB;Consumer Cyclical;Department Stores
+242;TGA.JO;Thungela Resources Limited;ZAc;JNB;Energy;Thermal Coal
+243;TBS.JO;Tiger Brands Limited;ZAc;JNB;Consumer Defensive;Packaged Foods
+244;TON.JO;Tongaat Hulett Limited;ZAc;JNB;Consumer Defensive;Confectioners
+245;CPP.JO;Collins Property Group Limited;ZAc;JNB;Real Estate;Real Estate Services
+246;TCP.JO;N/A;N/A;N/A;N/A;N/A
+247;TPC.JO;Transpaco Limited;ZAc;JNB;Consumer Cyclical;Packaging & Containers
+248;TRL.JO;Trellidor Holdings Limited;ZAc;JNB;Industrials;Security & Protection Services
+249;TMT.JO;Trematon Capital Investments Limited;ZAc;JNB;Real Estate;Real Estate Services
+250;TRE.JO;Trencor Limited;ZAc;JNB;Financial Services;Shell Companies
+251;TTO.JO;Trustco Group Holdings Limited;ZAc;JNB;Financial Services;Asset Management
+252;TRU.JO;Truworths International Limited;ZAc;JNB;Consumer Cyclical;Apparel Retail
+253;TSG.JO;Tsogo Sun Limited;ZAc;JNB;Consumer Cyclical;Resorts & Casinos
+254;UPL.JO;Universal Partners Limited;ZAc;JNB;Financial Services;Asset Management
+255;VAL.JO;Valterra Platinum Limited;ZAc;JNB;Basic Materials;Other Precious Metals & Mining
+256;VIS.JO;Visual International Holdings Limited;ZAc;JNB;Real Estate;Real Estate Services
+257;VOD.JO;Vodacom Group Limited;ZAc;JNB;Communication Services;Telecom Services
+258;VKE.JO;Vukile Property Fund Limited;ZAc;JNB;Real Estate;REIT - Retail
+259;VUN.JO;Vunani Limited;ZAc;JNB;Financial Services;Capital Markets
+260;WBC.JO;N/A;ZAc;JNB;Consumer Cyclical;Auto & Truck Dealerships
+261;WSL.JO;N/A;N/A;N/A;N/A;N/A
+262;WEZ.JO;Wesizwe Platinum Limited;ZAc;JNB;Basic Materials;Other Industrial Metals & Mining
+263;WBO.JO;Wilson Bayly Holmes-Ovcon Limited;ZAc;JNB;Industrials;Engineering & Construction
+264;WHL.JO;Woolworths Holdings Limited;ZAc;JNB;Consumer Cyclical;Department Stores
+265;YYLBEE.JO;YeboYethu (RF) Limited;ZAc;JNB;Communication Services;Telecom Services
+266;YRK.JO;York Timber Holdings Limited;ZAc;JNB;Basic Materials;Lumber & Wood Production
+267;ZZD.JO;Zeda Limited;ZAc;JNB;Industrials;Rental & Leasing Services
+268;ZED.JO;Zeder Investments Ltd.;ZAc;JNB;Financial Services;Asset Management
+269;ADI.JO;N/A;N/A;N/A;N/A;N/A
+270;AVL.JO;N/A;N/A;N/A;N/A;N/A
+271;ATI.JO;N/A;N/A;N/A;N/A;N/A
+272;AGI.JO;N/A;N/A;N/A;N/A;N/A
+273;ALH.JO;N/A;N/A;N/A;N/A;N/A
+274;ANANP.JO;N/A;N/A;N/A;N/A;N/A
+275;ARH.JO;N/A;N/A;N/A;N/A;N/A
+276;AWA.JO;N/A;N/A;N/A;N/A;N/A
+277;BSR.JO;Basil Read Holdings Limited;N/A;YHD;N/A;N/A
+278;BAU.JO;N/A;N/A;N/A;N/A;N/A
+279;BUC.JO;N/A;N/A;N/A;N/A;N/A
+280;CPF.JO;N/A;N/A;N/A;N/A;N/A
+281;CRG.JO;Cargo Carriers Limited;N/A;YHD;N/A;N/A
+282;CDZ.JO;N/A;N/A;N/A;N/A;N/A
+283;CRM.JO;N/A;N/A;N/A;N/A;N/A
+284;CLR.JO;N/A;N/A;N/A;N/A;N/A
+285;CMA.JO;N/A;N/A;N/A;N/A;N/A
+286;CCL.JO;N/A;N/A;N/A;N/A;N/A
+287;CNX.JO;N/A;N/A;N/A;N/A;N/A
+288;CCR.JO;N/A;N/A;N/A;N/A;N/A
+289;CNS.JO;N/A;N/A;N/A;N/A;N/A
+290;CNL.JO;N/A;N/A;N/A;N/A;N/A
+291;CVS.JO;N/A;N/A;N/A;N/A;N/A
+292;CUL.JO;N/A;N/A;YHD;N/A;N/A
+293;DST.JO;N/A;N/A;YHD;N/A;N/A
+294;EPP.JO;N/A;N/A;N/A;N/A;N/A
+295;ERN.JO;N/A;N/A;N/A;N/A;N/A
+296;ETO.JO;N/A;N/A;N/A;N/A;N/A
+297;FTB.JO;Fairvest Limited;ZAc;JNB;Real Estate;REIT - Retail
+298;FTA.JO;Fairvest Limited;ZAc;JNB;Real Estate;REIT - Retail
+299;FSE.JO;N/A;N/A;N/A;N/A;N/A
+300;FDP.JO;N/A;N/A;N/A;N/A;N/A
+301;GNDP.JO;Grindrod Limited;ZAc;JNB;Industrials;Integrated Freight & Logistics
+302;HAL.JO;N/A;N/A;N/A;N/A;N/A
+303;HVL.JO;N/A;N/A;N/A;N/A;N/A
+304;HPA.JO;N/A;N/A;N/A;N/A;N/A
+305;BSB.JO;N/A;N/A;N/A;N/A;N/A
+306;HWN.JO;N/A;N/A;N/A;N/A;N/A
+307;HWHWA.JO;N/A;N/A;N/A;N/A;N/A
+308;IDN.JO;N/A;N/A;N/A;N/A;N/A
+309;IFH.JO;N/A;N/A;N/A;N/A;N/A
+310;IFR.JO;N/A;N/A;N/A;N/A;N/A
+311;ILA.JO;N/A;N/A;N/A;N/A;N/A
+312;ILV.JO;N/A;N/A;N/A;N/A;N/A
+313;IPL.JO;N/A;N/A;N/A;N/A;N/A
+314;IMU.JO;N/A;N/A;N/A;N/A;N/A
+315;IDQ.JO;N/A;N/A;N/A;N/A;N/A
+316;IFW.JO;N/A;N/A;N/A;N/A;N/A
+317;IPS.JO;N/A;N/A;N/A;N/A;N/A
+318;JSC.JO;N/A;N/A;N/A;N/A;N/A
+319;L2D.JO;N/A;N/A;N/A;N/A;N/A
+320;LBH.JO;N/A;N/A;N/A;N/A;N/A
+321;LNF.JO;London Finance & Investment Group P.L.C.;ZAc;JNB;Financial Services;Asset Management
+322;L4L.JO;N/A;N/A;N/A;N/A;N/A
+323;LUX.JO;N/A;N/A;N/A;N/A;N/A
+324;MCU.JO;N/A;N/A;N/A;N/A;N/A
+325;MDN.JO;N/A;N/A;N/A;N/A;N/A
+326;MKL.JO;N/A;N/A;N/A;N/A;N/A
+327;MAS.JO;N/A;N/A;N/A;N/A;N/A
+328;MSM.JO;N/A;N/A;N/A;N/A;N/A
+329;MTZ.JO;N/A;N/A;N/A;N/A;N/A
+330;MDC.JO;N/A;N/A;N/A;N/A;N/A
+331;MTL.JO;N/A;N/A;N/A;N/A;N/A
+332;MML.JO;N/A;N/A;N/A;N/A;N/A
+333;MTX.JO;N/A;N/A;N/A;N/A;N/A
+334;MMG.JO;MICROmega Holdings Limited;N/A;YHD;N/A;N/A
+335;MMH.JO;N/A;N/A;N/A;N/A;N/A
+336;MLA.JO;N/A;N/A;N/A;N/A;N/A
+337;MMI.JO;N/A;N/A;N/A;N/A;N/A
+338;MOB.JO;N/A;N/A;N/A;N/A;N/A
+339;MNY.JO;N/A;N/A;N/A;N/A;N/A
+340;MTE.JO;N/A;N/A;N/A;N/A;N/A
+341;MVG.JO;N/A;N/A;N/A;N/A;N/A
+342;MVR.JO;N/A;N/A;N/A;N/A;N/A
+343;MVS.JO;N/A;N/A;N/A;N/A;N/A
+344;NBKP.JO;N/A;N/A;N/A;N/A;N/A
+345;NAI.JO;N/A;N/A;N/A;N/A;N/A
+346;NCA.JO;N/A;N/A;N/A;N/A;N/A
+347;OLG.JO;N/A;N/A;N/A;N/A;N/A
+348;PEM.JO;Pembury Lifestyle Group Limited;ZAR;JNB;N/A;N/A
+349;PFB.JO;N/A;N/A;N/A;N/A;N/A
+350;PSG.JO;N/A;N/A;N/A;N/A;N/A
+351;RACP.JO;N/A;N/A;N/A;N/A;N/A
+352;RAH.JO;N/A;N/A;N/A;N/A;N/A
+353;RSG.JO;N/A;N/A;N/A;N/A;N/A
+354;RBP.JO;N/A;N/A;N/A;N/A;N/A
+355;SBL.JO;N/A;N/A;N/A;N/A;N/A
+356;SAB.JO;N/A;N/A;N/A;N/A;N/A
+357;SAL.JO;N/A;N/A;N/A;N/A;N/A
+358;SFN.JO;N/A;N/A;N/A;N/A;N/A
+359;SER.JO;N/A;N/A;N/A;N/A;N/A
+360;SDH.JO;N/A;N/A;N/A;N/A;N/A
+361;SKJ.JO;N/A;N/A;N/A;N/A;N/A
+362;SNU.JO;N/A;N/A;N/A;N/A;N/A
+363;STO.JO;N/A;N/A;N/A;N/A;N/A
+364;SBG.JO;N/A;N/A;N/A;N/A;N/A
+365;SIM.JO;N/A;N/A;N/A;N/A;N/A
+366;SYA.JO;N/A;N/A;N/A;N/A;N/A
+367;SLO.JO;N/A;N/A;N/A;N/A;N/A
+368;SOV.JO;N/A;N/A;YHD;N/A;N/A
+369;SPA.JO;N/A;N/A;N/A;N/A;N/A
+370;SPS.JO;N/A;N/A;N/A;N/A;N/A
+371;SQE.JO;N/A;N/A;N/A;N/A;N/A
+372;SHF.JO;N/A;N/A;N/A;N/A;N/A
+373;SHFF.JO;N/A;N/A;N/A;N/A;N/A
+374;SLL.JO;N/A;N/A;N/A;N/A;N/A
+375;STA.JO;N/A;N/A;N/A;N/A;N/A
+376;SYC.JO;N/A;N/A;N/A;N/A;N/A
+377;TAW.JO;N/A;N/A;N/A;N/A;N/A
+378;TBX.JO;N/A;N/A;N/A;N/A;N/A
+379;VLE.JO;N/A;N/A;N/A;N/A;N/A
+380;WEA.JO;WG Wearne Limited;N/A;YHD;N/A;N/A
+381;WKF.JO;N/A;N/A;N/A;N/A;N/A
+382;ZCL.JO;N/A;N/A;N/A;N/A;N/A
+383;IOC.JO;iOCO Limited;ZAc;JNB;Technology;Information Technology Services
